@@ -14,7 +14,7 @@
 
 <!-- endhide -->
 
-<!-- howtostart -->
+<onlyfor saas="true" withBanner="true">
 
 ## 🌱 ¿Cómo empezar este proyecto?
 
@@ -30,7 +30,7 @@ Este ejercicio tiene como objetivo utilizar **comandos CMD de Windows** en el co
 
 > Ambas maquinas virtuales deben estar configuradas con la opción **adaptador en modo puente** para que puedan comunicarse a través de la red local.
 
-<!-- endhowtostart -->
+</onlyfor>
 
 ## 📝 Instrucciones
 
