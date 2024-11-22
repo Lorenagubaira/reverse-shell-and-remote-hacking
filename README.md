@@ -13,7 +13,7 @@
 > We need you! These exercises are created and maintained in collaboration with people like you. If you find any errors or typos, please contribute and/or report them.
 <!-- endhide -->
 
-<!-- howtostart -->
+<onlyfor saas="true" withBanner="false">
 
 ## 🌱 How to Start This Project
 
@@ -29,7 +29,7 @@ This exercise aims to utilize Windows CMD commands in the context of a remote co
 
 > Both virtual machines must be configured with the bridged adapter option so they can communicate over the local network.
 
-<!-- endhowtostart -->
+</onlyfor>
 
 ## 📝 Instructions
 
