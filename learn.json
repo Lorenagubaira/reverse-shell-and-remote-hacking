@@ -15,6 +15,7 @@
     "bugsLink": "https://github.com/breatheco-de/breatheco-de/issues/new",
     "technologies": ["cybersecurity", "hacking", "cybersecurity", "ciberseguridad", "linea de comandos", "terminal", "command line"],
     "graded": false,
+    "projectType": "project",
     "telemetry": {
         "batch": "https://breathecode.herokuapp.com/v1/assignment/me/telemetry"
     },
