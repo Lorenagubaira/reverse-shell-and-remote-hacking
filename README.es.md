@@ -14,8 +14,6 @@
 
 <!-- endhide -->
 
-<onlyfor saas="false" withBanner="false">
-
 ## 🌱 ¿Cómo empezar este proyecto?
 
 Este ejercicio tiene como objetivo utilizar **comandos CMD de Windows** en el contexto de una conexión remota, simulando un ataque de **hacking remoto**. Este tutorial te ayudará a establecer una reverse shell desde una máquina Windows 10 hacia una máquina Kali Linux, ejecutando una serie de comandos para obtener información crítica del sistema Windows. Todo esto se hará en un entorno controlado, utilizando máquinas virtuales, y estará enfocado en la fase de **post-explotación** de un ataque ético.
@@ -29,8 +27,6 @@ Este ejercicio tiene como objetivo utilizar **comandos CMD de Windows** en el co
   - Acceso a **PowerShell** y permisos de ejecución de scripts
 
 > Ambas maquinas virtuales deben estar configuradas con la opción **adaptador en modo puente** para que puedan comunicarse a través de la red local.
-
-</onlyfor>
 
 ## 📝 Instrucciones
 
